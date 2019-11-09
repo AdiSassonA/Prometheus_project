@@ -1,0 +1,17 @@
+{
+	"ulid": "01DS8C6RS5KE2F4M28GNA24MN5",
+	"minTime": 1573300800000,
+	"maxTime": 1573308000000,
+	"stats": {
+		"numSamples": 732,
+		"numSeries": 28,
+		"numChunks": 28
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01DS8C6RS5KE2F4M28GNA24MN5"
+		]
+	},
+	"version": 1
+}

@@ -1,0 +1,17 @@
+{
+	"ulid": "01DS8HQE68B2XWNYQDWRDG3VGP",
+	"minTime": 1573308000000,
+	"maxTime": 1573315200000,
+	"stats": {
+		"numSamples": 278,
+		"numSeries": 28,
+		"numChunks": 28
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01DS8HQE68B2XWNYQDWRDG3VGP"
+		]
+	},
+	"version": 1
+}
